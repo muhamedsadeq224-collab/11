@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+langgraph
+google-genai
+pydantic
